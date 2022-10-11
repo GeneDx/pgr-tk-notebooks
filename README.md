@@ -1,5 +1,6 @@
 # pgr-tk-notebooks
 Jupyter Notebooks Using PGR-TK for various human pangenome analysis tasks
+(see https://github.com/Sema4-Research/pgr-tk/blob/main/README.md)
 
 
 ```
